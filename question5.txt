@@ -1,0 +1,6 @@
+Websites are created by using HTML,CSS, javascript and backend develop using different frame works like sql,php etc. websites are in the form of domain structures in https and www. 
+you can alsoenable javascript rendering to analyze the rendered version of webpage. crawl in website by the links to deeper levels in HTTP and HTTPS links. crawl a set to site maps. links on 
+these pages will not be crawled. Using google search console integration to images and texts and discover additional pages on the website.
+we can save images and texts from the websites we upload files in the google. Crawl a fixed list of URLs. Links onthese pages will be saved. A web crawler garbs its content like images and 
+texts to save them. Once completed the program visits the link obtained from the web page it had recently visited. we can access the and visit publicly accessible webpages and links and 
+save the links fromthe webpages. Thus we can save the images and required text from the visited website using web crawler
